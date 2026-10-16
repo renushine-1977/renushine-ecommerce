@@ -1,0 +1,41 @@
+{
+  "theme": {
+    "pink": "#d92678",
+    "pinkDark": "#a71959",
+    "pinkSoft": "#fff0f7",
+    "ink": "#29222a",
+    "muted": "#796f78"
+  },
+  "announcement": "RENU SHINE · VEHICLE CARE FOR THE ROAD AHEAD · TAMIL NADU, INDIA",
+  "hero": {
+    "eyebrow": "Made for a cleaner drive",
+    "title": "Bring back\nthat shine.",
+    "description": "Explore Renu Shine vehicle care essentials. Tap a product photo to see it larger, read its details and add a pack to your cart.",
+    "button": "Shop all products ↓"
+  },
+  "benefits": ["✦ Everyday vehicle cleaning", "◈ Pack prices shown in rupees", "☎ WhatsApp order support"],
+  "shop": { "eyebrow": "The Renu Shine range", "title": "All products & prices" },
+  "about": {
+    "eyebrow": "Renugambal Clean Care",
+    "title": "Care that keeps you moving.",
+    "description": "Renu Shine makes vehicle care products for drivers, riders and cleaning professionals. Contact our team for product details, availability and delivery information.",
+    "button": "Talk to our team ↗"
+  },
+  "contact": {
+    "eyebrow": "Need product details or bulk orders?",
+    "title": "We’re one message away.",
+    "description": "Renugambal Clean Care · Tamil Nadu, India",
+    "phone": "+91 70105 89092",
+    "email": "renugammal@gmail.com",
+    "whatsapp": "917010589092"
+  },
+  "products": [
+    { "id": 1, "name": "Foam Booster", "category": "Washing", "tag": "Thick wash foam", "detail": "Concentrated foam for foam cannons or hand washing.", "image": "WhatsApp Image 2026-10-14 at 9.03.06 PM (9).jpeg", "backImage": "foam-booster-back.jpeg", "sizes": [{ "label": "5 L", "price": 885 }], "priceNote": "₹885 MRP shown on the 5 L back label.", "visible": true },
+    { "id": 2, "name": "Premium Foam Booster", "category": "Washing", "tag": "Premium foam", "detail": "High foam car wash formula for a thorough clean and glossy finish.", "image": "WhatsApp Image 2026-10-14 at 9.03.06 PM (13).jpeg", "backImage": "premium-foam-back.jpeg", "sizes": [{ "label": "1 L", "price": 250 }, { "label": "5 L", "price": 1180 }], "priceNote": "MRPs read from the supplied pack labels.", "visible": true },
+    { "id": 3, "name": "Car Wash Shampoo", "category": "Washing", "tag": "Everyday clean", "detail": "5 L car wash shampoo that helps remove dirt and grime and leaves a glossy finish.", "image": "WhatsApp Image 2026-10-14 at 9.03.06 PM (6).jpeg", "sizes": [{ "label": "5 L", "price": null }], "priceNote": "5 L price to be confirmed; contact us on WhatsApp.", "visible": true },
+    { "id": 4, "name": "Tyre Polish", "category": "Polish", "tag": "Deep black gloss", "detail": "Tyre polish for a rich black finish with lasting shine.", "image": "WhatsApp Image 2026-10-14 at 9.03.06 PM (14).jpeg", "backImage": "tyre-polish-back.jpeg", "sizes": [{ "label": "1 L", "price": 354 }, { "label": "5 L", "price": 1770 }], "priceNote": "MRPs read from the supplied pack labels.", "visible": true },
+    { "id": 5, "name": "Dashboard & Multipurpose Polish", "category": "Polish", "tag": "Interior & more", "detail": "Restores a natural shine on dashboards and other suitable surfaces.", "image": "WhatsApp Image 2026-10-14 at 9.03.06 PM (4).jpeg", "backImage": "dashboard-polish-back.jpeg", "sizes": [{ "label": "1 L", "price": 413 }, { "label": "5 L", "price": 2065 }], "priceNote": "MRPs read from the supplied pack labels.", "visible": true },
+    { "id": 6, "name": "Glass Cleaner", "category": "Other", "tag": "Clear finish", "detail": "Car glass cleaner for a clean, clear, streak free finish.", "image": "WhatsApp Image 2026-10-14 at 9.03.06 PM (11).jpeg", "sizes": [{ "label": "1 L", "price": 212 }, { "label": "5 L", "price": 1062 }], "priceNote": "MRPs read from the supplied pack labels.", "visible": true },
+    { "id": 7, "name": "Cutting Oil", "category": "Other", "tag": "Workshop essential", "detail": "Cutting oil for machining applications with lubrication and cooling support.", "image": "WhatsApp Image 2026-10-14 at 9.03.06 PM (2).jpeg", "backImage": "cutting-oil-back.jpeg", "sizes": [{ "label": "1 L", "price": 260 }, { "label": "5 L", "price": 1298 }], "priceNote": "MRPs read from the supplied pack labels.", "visible": true }
+  ]
+}
