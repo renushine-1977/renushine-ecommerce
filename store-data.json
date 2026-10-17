@@ -6,7 +6,7 @@
     "ink": "#29222a",
     "muted": "#796f78"
   },
-  "announcement": "RENU SHINE · CARE FOR THE ROAD AHEAD · TAMIL NADU, INDIA",
+  "announcement": "RENU SHINE · CAR CARE FOR THE ROAD AHEAD · INDIA",
   "hero": {
     "eyebrow": "Made for a cleaner drive",
     "title": "Bring back\nthat shine.",
@@ -85,10 +85,14 @@
       "sizes": [
         {
           "label": "5 L",
-          "price": null
+          "price": 708
+        },
+        {
+          "label": "1L",
+          "price": 141
         }
       ],
-      "priceNote": "5 L price to be confirmed; contact us on WhatsApp.",
+      "priceNote": "1 L ,5 L price to be confirmed; contact us on WhatsApp.",
       "visible": true,
       "backImage": ""
     },
