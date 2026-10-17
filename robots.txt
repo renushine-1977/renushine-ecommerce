@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://renushine-1977.github.io/renushine-ecommerce/sitemap.xml
